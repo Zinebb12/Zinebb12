@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Zinebb12
+- 👋 Hi, I’m Zineb
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning and studying with ALX Africa . 
-- 💞️ I’m looking for someone who can collaborate on coding projects.
   
 
 <!---
